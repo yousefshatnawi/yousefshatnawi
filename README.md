@@ -31,10 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefshatnawi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefshatnawi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
-</p>
-
 <br/>
 
 ## 🤝 Connect with Me
