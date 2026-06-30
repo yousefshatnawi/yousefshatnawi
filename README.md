@@ -1,11 +1,6 @@
 <h1 align="center">Hey 👋, I'm Yousef Shatnawi</h1>
 <h3 align="center">Angular Front-End Developer | Enterprise Applications | Clean Architecture Enthusiast</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yousefshatnawi&style=flat-square&color=2563EB" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/yousefshatnawi?style=flat-square&color=2563EB&label=Followers" alt="Followers"/>
-</p>
-
 <br/>
 
 ## 📌 About Me
@@ -33,21 +28,11 @@
 <hr>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yousefshatnawi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yousef's GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefshatnawi&theme=tokyonight&hide_border=true" alt="Yousef's GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousefshatnawi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefshatnawi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<br/>
-
-## 🏆 GitHub Achievements
-<hr>
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=yousefshatnawi&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefshatnawi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
 </p>
 
 <br/>
